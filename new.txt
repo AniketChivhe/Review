@@ -19,3 +19,9 @@ applying while loop (n>0)
 -divided a by 10
 
 return to a
+
+--IF n=1234
+then a = a*10 + n%10,
+a = 0*10 + 1234%10= 4
+n = n/10 = 123	
+
