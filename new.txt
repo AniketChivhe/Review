@@ -14,8 +14,8 @@ then we get in output sum
 1st initialize a=0, means num
 applying while loop (n>0)
 
--multilpy a*10 and add reminder of "a" divided by 10 to "a"
-(a=a*10+ a%10)
+-multilpy a*10 and add reminder of "n" divided by 10 to "a"
+(a=a*10+ n%10)
 -divided a by 10
 
 return to a
