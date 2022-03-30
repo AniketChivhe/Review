@@ -1,0 +1,21 @@
+#sudo code for sum of n natural numbers 
+variable sum =0, int n
+for loop
+for(i=1,i<n,i++)
+{
+sum=sum+i;
+}
+
+if n=5
+then we get in output sum
+
+
+#sudo code to reverse the integer number
+1st initialize a=0, means num
+applying while loop (n>0)
+
+-multilpy a*10 and add reminder of "a" divided by 10 to "a"
+(a=a*10+ a%10)
+-divided a by 10
+
+return to a
